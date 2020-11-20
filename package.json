@@ -3,6 +3,7 @@
   "debug": false,
   "watch": false,
   "devDependencies": {
+    "bower": "^1.8.8",
     "browserify": "^6.3.2",
     "browserify-shim": "^3.8.0",
     "gulp": "^3.8.10",

@@ -3,7 +3,7 @@
 var Section = require('../classes/SectionClass');
 
 var TextPanel = require('../objects3D/TextPanelObject3D');
-var Face = require('../objects3D/FaceHpObject3D');
+var Face = require('../objects3D/LogoObject3D');
 var Strips = require('../objects3D/StripsObject3D');
 
 var faceSection = new Section('face');
